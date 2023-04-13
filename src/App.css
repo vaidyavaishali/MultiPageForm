@@ -1,0 +1,202 @@
+#first-main-container, #second-container {
+  width: 100vw;
+  height: 100vh;
+  margin: auto;
+}
+
+#first-page {
+  width: 80%;
+  height: 70%;
+  border: 3px solid #2525c7;
+  margin: 5% auto;
+  /* text-align: center; */
+  padding: 1%;
+}
+
+h3 {
+  text-align: center;
+}
+
+header .div-1 {
+  width: 89%;
+}
+
+header .page-no {
+  width: 11%;
+  height: 210%;
+  border-radius: 50%;
+  background-color: #bbbbd7;
+  color: white;
+  text-align: center;
+  padding: .8%;
+  /* position: absolute; */
+}
+
+header {
+  width: 90%;
+  height: 4%;
+  margin: 5% auto;
+  display: flex;
+  position: relative;
+  /* margin: auto; */
+}
+
+fieldset {
+  margin-top: 60px;
+  width: 100%;
+  padding: 3%;
+}
+
+fieldset div {
+  width: 100%;
+  margin: 60px auto 0 30px;
+}
+
+fieldset div input {
+  margin: 10px auto 0 0px;
+  width: 90%;
+  height: 10%;
+}
+
+fieldset div label {
+  display: block;
+  text-align: left;
+  margin: 10px auto 0 0px;
+  /* margin-left: 1%; */
+}
+
+fieldset {
+  display: flex;
+  height: 90%;
+}
+
+.line {
+  width: 43%;
+  height: 1%;
+
+
+}
+
+.line-1 {
+  position: absolute;
+  left: 3%;
+  top: 76%;
+  background-color: #1616bb;
+
+}
+
+.line-2 {
+  position: absolute;
+  left: 52%;
+  top: 60%;
+  background-color: #bfbfed;
+}
+
+header .page-no-2 {
+  position: absolute;
+  left: 47%;
+  width: 4%;
+
+  /* height: ; */
+}
+
+header .page-no-3 {
+  position: absolute;
+  left: 96%;
+  width: 4%;
+
+
+}
+
+header .page-no-1 {
+  position: absolute;
+  left: -2%;
+  width: 4%;
+  background-color: #1515b6;
+
+}
+
+header .div-1 .p1 {
+  position: absolute;
+  top: 257%;
+  left: -2%;
+  /* width: 4%; */
+}
+
+header .div-1 .p2 {
+  position: absolute;
+  top: 257%;
+  left: 46%;
+}
+
+header .div-1 .p3 {
+  position: absolute;
+  top: 257%;
+  right: -6%;
+}
+
+#Next-btn {
+  position: absolute;
+  top: 73%;
+  width: 9%;
+  left: 53%;
+  background-color: #0f0f98;
+  height: 5%;
+  color: white;
+}
+
+.next-2 {
+  position: absolute;
+  top: 73%;
+  width: 9%;
+  left: 46%;
+  /* margin: auto; */
+  background-color: #0f0f98;
+  height: 5%;
+  color: white;
+}
+
+#prev-btn {
+  position: absolute;
+  top: 73%;
+  width: 9%;
+  left: 40%;
+  background-color: #141498;
+  height: 5%;
+  color: white;
+}
+
+fieldset .opt-div input[type="radio"] {
+  /* width: 20%; */
+  height: 5%;
+  /* margin: 0 3% 0 0; */
+  vertical-align: middle;
+  /* display: inline; */
+
+
+}
+h4{
+  text-align: center;
+}
+input[type="radio"] {
+  width: unset;
+  margin: 2%;
+}
+.second_container{
+   height: 150vh;
+}
+.second_container fieldset{
+  height: 70%;
+}
+select{
+  width: 90%;
+  height: 10%;
+}
+#summary{
+  margin: auto;
+  border: 2px solid blue;
+  width: 40%;
+  height: auto;
+  padding: 3%;
+  box-sizing: border-box;
+}
